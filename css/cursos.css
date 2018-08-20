@@ -2,7 +2,9 @@ body {
     background-color: coral;
     color: yellow;
 }
-
+h1 {
+    color: brown;
+}
 h2 {
     color: green;
 }
